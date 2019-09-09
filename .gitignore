@@ -1,6 +1,6 @@
 docker-compose.yml
 build_info.txt
 prometheus/
-
+variables.env
 ## python specific
 *.pyc
