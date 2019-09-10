@@ -1,8 +1,8 @@
 build_info.txt
-prometheus/
+
 variables.env
 ## python specific
 *.pyc
-docker-monolith/
-src/
+
+
 
