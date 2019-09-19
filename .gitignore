@@ -3,6 +3,6 @@ build_info.txt
 variables.env
 ## python specific
 *.pyc
-
+.env
 
 
